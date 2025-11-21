@@ -1,7 +1,7 @@
 # This is my local repo !!
 <br>
 
-[![KISAN Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](https://KISANjs.com/)
+[![KISAN Logo]([https://i.cloudup.com/zfY6lL7eFa-3000x3000.png](https://phyninja.github.io/Startup_landing_page/))](https://KISANjs.com/)
 
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
 
